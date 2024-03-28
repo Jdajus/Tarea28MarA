@@ -1,0 +1,46 @@
+.gochi-hand-regular {
+    font-family: "Gochi Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+} 
+.rubik-moonrocks-regular {
+    font-family: "Rubik Moonrocks", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}  
+.megrim-regular {
+    font-family: "Megrim", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}  
+.rubik-glitch-regular {
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}  
+.bungee-regular {
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+    
+/*.container-fluid{}*/
+.row{
+    /*background-color: blue;*/
+    margin: 5px;
+}
+.col{
+    /*background-color: chartreuse;*/
+    margin: 5px;
+}
+.Cajita{
+    background-color: rgba(255, 123, 0, 0.795);
+    margin: 5px;
+}
+/* 
+terminar con al menos 5 componentes 
+al parecer se pueden poner recetas en la pagina 2 del proyecto
+el las 4 opciones, completar para al menos 5!? 
+todo esto va para los departamentos de bolivia y platos tipicos de los mismos, o eleccion de un tema por ahi
+
+*/
